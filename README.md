@@ -1,5 +1,6 @@
 # JSE
 code for James-Stein for the Leading Eigenvector
+
 This is object oriented python code for producing the boxplots of Figure 3 in the article "James-Stein for the Leading Eigenvector" by L. Goldberg and A. Kercheval.
 
 SimulationJSE.py defines the class SimulationJSE to set up the model and data.
